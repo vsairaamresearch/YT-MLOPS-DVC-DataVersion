@@ -1,0 +1,3 @@
+1. create a github repo and clone it (completed)
+2. create a code.py which creates a csv file into a data folder
+3. git-add-commit-push then do dvc init
