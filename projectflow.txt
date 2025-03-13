@@ -1,3 +1,6 @@
 1. create a github repo and clone it (completed)
 2. create a code.py which creates a csv file into a data folder
 3. git-add-commit-push then do dvc init
+4. do dvc init creates .dvcignore .dvc
+5. create a folder S3
+6. dvc add data/ for adding data folder to dvc
